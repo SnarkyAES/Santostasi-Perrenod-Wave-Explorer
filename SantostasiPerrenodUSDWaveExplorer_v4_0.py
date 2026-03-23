@@ -71,7 +71,7 @@ from PIL import Image, ImageGrab
 
 TRANSLATIONS = {
     'en': {
-        'title': "Perrenod USD Wave Explorer - BTC/USD - ω = 9.0647 LOCKED",
+        'title': "Santostasi Perrenod USD Wave Explorer - BTC/USD - ω = 9.0647 LOCKED",
         'draw': "📊 Draw",
         'calc_r2': "📈 Calc R²",
         'optimize': "🔄 Optimize",
@@ -206,7 +206,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 """,
     },
     'it': {
-        'title': "Perrenod USD Wave Explorer - BTC/USD - ω = 9.0647 LOCKED",
+        'title': "Santostasi Perrenod USD Wave Explorer - BTC/USD - ω = 9.0647 LOCKED",
         'draw': "📊 Disegna",
         'calc_r2': "📈 Calcola R²",
         'optimize': "🔄 Ottimizza",
@@ -284,7 +284,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
         'credits_title': "Credits & Ringraziamenti",
         'credits_text': """
 ═══════════════════════════════════════════════════════
-         PERRENOD GOLD WAVE EXPLORER v1.0
+         SANTOSTASI PERRENOD GOLD WAVE EXPLORER v1.0
 ═══════════════════════════════════════════════════════
 
 Questo software analizza il rapporto BTC/Oro come nel 
@@ -343,7 +343,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 }
 
 # ============================================================
-# CONSTANTS - Based on Perrenod's BTC/USD analysis
+# CONSTANTS - Based on Santostasi Perrenod's BTC/USD analysis
 # ============================================================
 # For BTC/USD: λ = 2.0 (standard doubling), ω = 9.0647
 # Power law from Santostasi: P = a * t^b with b ≈ 5.83
