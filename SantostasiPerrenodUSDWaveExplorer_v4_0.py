@@ -1,5 +1,5 @@
 # ============================================================
-# PERRENOD GOLD WAVE EXPLORER v1.0
+# SANTOSTASI PERRENOD USD WAVE EXPLORER v1.0
 # ============================================================
 # Based on the original work of Stephen Perrenod (BTC/USD)
 # and Giovanni Santostasi (Power Law Theory)
